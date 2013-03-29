@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Name: ineatconseil-nuxeo-test
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Vendor: Nuxeo
+Bundle-Version: 0.1.qualifier
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: ineatconseil-nuxeo-test
